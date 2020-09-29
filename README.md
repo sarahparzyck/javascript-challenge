@@ -31,6 +31,11 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 
+## Github Page
+https://sarahparzyck.github.io/javascript-challenge/
+
+- - - 
+
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
